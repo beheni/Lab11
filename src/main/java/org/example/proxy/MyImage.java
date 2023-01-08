@@ -1,4 +1,4 @@
-package org.example;
+package org.example.proxy;
 
 public interface MyImage {
     void display();

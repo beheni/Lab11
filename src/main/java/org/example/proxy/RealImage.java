@@ -1,4 +1,6 @@
-package org.example;
+package org.example.proxy;
+
+import org.example.proxy.MyImage;
 
 import javax.swing.JFrame;
 import javax.swing.ImageIcon;

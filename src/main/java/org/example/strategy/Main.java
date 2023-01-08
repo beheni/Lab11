@@ -1,4 +1,4 @@
-package org.example;
+package org.example.strategy;
 import com.mailjet.client.errors.MailjetException;
 import com.mailjet.client.errors.MailjetSocketTimeoutException;
 import com.mailjet.client.MailjetClient;
